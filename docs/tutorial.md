@@ -1,2 +1,8 @@
 # Tutorial for GoetheHub
-## Here is still nothing......(Comming soon)
+## General INTRODUCTION for Goethe Hub
+## Informatik
+### Blog System
+
+## Englisch
+## Rules of Forum
+
