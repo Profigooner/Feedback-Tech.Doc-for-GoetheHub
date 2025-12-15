@@ -5,8 +5,8 @@
 ## Progress by Development
 - Oct. 2025 First line of code
 Account-system
-- Nov. 2025 Englisch
-- Dec. 2025 Informatik-Blog, Englisch-Grammatik-Blog
+- Nov. 2025 Englisch-Vokabsys.
+- Dec. 2025 Informatik-Blog, Englisch-Grammatik-Blog, Mathe-Caculator
 ## Informatik
 ### Blog System
 
